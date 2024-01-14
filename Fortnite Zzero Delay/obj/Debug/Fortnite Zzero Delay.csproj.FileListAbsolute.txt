@@ -1,0 +1,7 @@
+C:\Users\ximam\Desktop\Fortnite Zzero Delay\Fortnite Zzero Delay\bin\Debug\Fortnite Zzero Delay.exe.config
+C:\Users\ximam\Desktop\Fortnite Zzero Delay\Fortnite Zzero Delay\bin\Debug\Fortnite Zzero Delay.exe
+C:\Users\ximam\Desktop\Fortnite Zzero Delay\Fortnite Zzero Delay\bin\Debug\Fortnite Zzero Delay.pdb
+C:\Users\ximam\Desktop\Fortnite Zzero Delay\Fortnite Zzero Delay\obj\Debug\Fortnite Zzero Delay.csproj.AssemblyReference.cache
+C:\Users\ximam\Desktop\Fortnite Zzero Delay\Fortnite Zzero Delay\obj\Debug\Fortnite Zzero Delay.csproj.CoreCompileInputs.cache
+C:\Users\ximam\Desktop\Fortnite Zzero Delay\Fortnite Zzero Delay\obj\Debug\Fortnite Zzero Delay.exe
+C:\Users\ximam\Desktop\Fortnite Zzero Delay\Fortnite Zzero Delay\obj\Debug\Fortnite Zzero Delay.pdb
