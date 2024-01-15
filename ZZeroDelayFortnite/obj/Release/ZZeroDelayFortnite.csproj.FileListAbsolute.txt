@@ -1,0 +1,10 @@
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\bin\Release\ZZeroDelayFortnite.exe.config
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\bin\Release\ZZeroDelayFortnite.exe
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\bin\Release\ZZeroDelayFortnite.pdb
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\obj\Release\ZZeroDelayFortnite.csproj.AssemblyReference.cache
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\obj\Release\ZZeroDelayFortnite.Form1.resources
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\obj\Release\ZZeroDelayFortnite.Properties.Resources.resources
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\obj\Release\ZZeroDelayFortnite.csproj.GenerateResource.cache
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\obj\Release\ZZeroDelayFortnite.csproj.CoreCompileInputs.cache
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\obj\Release\ZZeroDelayFortnite.exe
+C:\Users\ximam\Desktop\test\ZZeroDelay\ZZeroDelayFortnite\obj\Release\ZZeroDelayFortnite.pdb
